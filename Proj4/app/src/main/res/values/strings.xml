@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Project 4</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string-array name="JokeType">
+        <item>Dad</item>
+        <item>Donkey</item>
+        <item>General</item>
+        <item>Knock-Knock</item>
+        <item>Music</item>
+    </string-array>
+    <string name="first_fragment_label">Best Joke App Ever</string>
+    <string name="second_fragment_label">Best Joke Ever</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="back">back</string>
+    <string name="setup">setup</string>
+    <string name="punchline">punchline</string>
+    <string name="jokePNG">todo</string>
+</resources>
